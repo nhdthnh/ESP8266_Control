@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=RS Pin=LoLin-1-D0
+Removed Pin From Net: NetName=B1 Pin=LoLin-1-D1
+Removed Pin From Net: NetName=B2 Pin=LoLin-1-D2
+Removed Pin From Net: NetName=B3 Pin=LoLin-1-D3
+Removed Pin From Net: NetName=B4 Pin=LoLin-1-D4
+Removed Pin From Net: NetName=R1 Pin=LoLin-1-D5
+Removed Pin From Net: NetName=R2 Pin=LoLin-1-D6
+Removed Pin From Net: NetName=R3 Pin=LoLin-1-D7
+Removed Pin From Net: NetName=R4 Pin=LoLin-1-D8
+Removed Pin From Net: NetName=WIFI Pin=LoLin-1-SD3
+Added Component: Designator=LoLin-?(LoLin NodeMcu V3)
+Added Pin To Net: NetName=RS Pin=LoLin-?-D0
+Added Pin To Net: NetName=B1 Pin=LoLin-?-D1
+Added Pin To Net: NetName=B2 Pin=LoLin-?-D2
+Added Pin To Net: NetName=B3 Pin=LoLin-?-D3
+Added Pin To Net: NetName=B4 Pin=LoLin-?-D4
+Added Pin To Net: NetName=R1 Pin=LoLin-?-D5
+Added Pin To Net: NetName=R2 Pin=LoLin-?-D6
+Added Pin To Net: NetName=R3 Pin=LoLin-?-D7
+Added Pin To Net: NetName=R4 Pin=LoLin-?-D8
+Added Pin To Net: NetName=WIFI Pin=LoLin-?-SD3
+Added Member To Class: ClassName=Shcematic Member=Component LoLin-? NodeMCU V1.0 ESP-12E_1
+Added Room: Name=Shcematic

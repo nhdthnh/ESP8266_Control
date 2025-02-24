@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=ESP8266 NewDesignator=LoLin-?
+Added Component: Designator=C?(tu gom)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004765"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 100 10pF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=JDC(DC0)
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=+5 Pin=JDC-1
+Added Pin To Net: NetName=GND Pin=JDC-2
+Added Member To Class: ClassName=Shcematic Member=Component C? 100
+Added Member To Class: ClassName=Shcematic Member=Component JDC Jac DC
+Added Room: Name=Shcematic

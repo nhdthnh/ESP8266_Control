@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=C? NewDesignator=Cap
+Added Component: Designator=JDC(DC0)
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=JDC-1
+Added Pin To Net: NetName=GND Pin=JDC-2
+Added Pin To Net: NetName=GND Pin=LoLin-?-GND
+Added Pin To Net: NetName=GND Pin=LoLin-?-GND
+Added Pin To Net: NetName=GND Pin=LoLin-?-GND
+Added Pin To Net: NetName=GND Pin=LoLin-?-GND
+Added Pin To Net: NetName=GND Pin=LoLin-?-GND
+Added Pin To Net: NetName=+5 Pin=LoLin-?-VIN
+Added Member To Class: ClassName=Shcematic Member=Component JDC Jac DC
+Added Room: Name=Shcematic
